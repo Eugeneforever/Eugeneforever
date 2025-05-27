@@ -21,10 +21,10 @@ I'm an aspiring Front-End Developer transitioning from a background in Political
 
 ### [BuzzHive Trivia Game](https://buzzhivetrivia-game.netlify.app/)
 
-**[BuzzHive Trivia Game]** is an interactive quiz application built with **React**. It offers users a series of multiple-choice questions across various topics, providing immediate feedback on their selections. This project showcases my skills in state management, component-based architecture, and user interface design. You can check out the repository [here](https://github.com/Eugeneforever/Buzzhive-quiz-app-alxcapstone).
+**[BuzzHive Trivia Game](https://buzzhivetrivia-game.netlify.app/)** is an interactive quiz application built with **React**. It offers users a series of multiple-choice questions across various topics, providing immediate feedback on their selections. This project showcases my skills in state management, component-based architecture, and user interface design. You can check out the repository [here](https://github.com/Eugeneforever/Buzzhive-quiz-app-alxcapstone).
 
 ## Get in Touch 📬
 
 - **Email:** eugeneacquaye.ea6@gmail.com
-- **Twitter:** https://x.com/Eugeneforever_
+- **Twitter:** [@eugeneforever_]https://x.com/Eugeneforever_
 
