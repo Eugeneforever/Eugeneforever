@@ -26,5 +26,5 @@ I'm an aspiring Front-End Developer transitioning from a background in Political
 ## Get in Touch 📬
 
 - **Email:** eugeneacquaye.ea6@gmail.com
-- **Twitter:** [@eugeneforever_]https://x.com/Eugeneforever_
+- **Twitter:** [@eugeneforever_](https://x.com/Eugeneforever_)
 
